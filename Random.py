@@ -290,7 +290,7 @@ def Coder():
     print "Age : 14 Taon hehe masih muda kan? :v"
     print "Instagram : @irfan_vrn"
     print "Contacts me : thevale145@gmail.com"
-    print "Greetz For : Corazon,NHCAT,PhobiaXploit,Friends Cyber Muslim, E.S.A ,Forum Indores"
+    print "Greetz For : Panda 7w7,Corazon,NHCAT,PhobiaXploit,Friends Cyber Muslim, E.S.A ,Forum Indores"
     print "Phoenix Cyber Army , Anonymous Cyber Muslim,Clay Attacker Team,dan Semua Grup yang gw Join"
     print "dan juga semua Temen Gw tentunya :) "
     print ""
